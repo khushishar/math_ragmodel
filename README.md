@@ -4,11 +4,6 @@
 
 ---
 
-![Demo](https://raw.githubusercontent.com/khushishar/math_ragmodel/main/output3.mp4)
-
-
----
-
 How to run 
 ```bash
 # Clone the repo
